@@ -19,7 +19,7 @@ email: contact@sidspantry.org
 description: >- # this means to ignore newlines until "baseurl:"
   Local food pantry serving the Concord, Vermont area.
 est: Est. 2017
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/sids-pantry-site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 paginate:	5 # The number of posts to show per page on your homepage
 
@@ -32,8 +32,8 @@ theme: hanuman
 plugins:
   - jekyll-feed
 
-logo: /sids-pantry-site/assets/images/logo.png
-cover: /sids-pantry-site/assets/images/dog.jpg
+logo: /assets/images/logo.png
+cover: /assets/images/dog.jpg
 
 
 # Exclude from processing.
