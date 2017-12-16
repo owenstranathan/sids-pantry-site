@@ -32,8 +32,8 @@ theme: hanuman
 plugins:
   - jekyll-feed
 
-logo: sids-pantry-site/assets/images/logo.png
-cover: sids-pantry-site/assets/images/dog.jpg
+logo: /sids-pantry-site/assets/images/logo.png
+cover: /sids-pantry-site/assets/images/dog.jpg
 
 
 # Exclude from processing.
