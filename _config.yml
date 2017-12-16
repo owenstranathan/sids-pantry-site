@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
 
 logo: /assets/images/logo.png
-cover: /assets/images/dog.jpg
+cover: /assets/images/cover.jpg
 
 
 # Exclude from processing.
